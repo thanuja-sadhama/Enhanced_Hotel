@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:arial;
+}
+section{
+display:flex;
+width:100%;
+height:1900px;
+align-items:center;
+justify-content:center;
+background-image: url('https://whateveryourdose.com/wp-content/uploads/2023/02/Best-hotels-opening-in-London-2023-.003.jpeg');
+background-size:cover;
+position:relative;
+}
+section .div1{
+border:5px solid rgba(255, 228, 196, 0.500);
+width:800px;
+height:1700px;
+padding:25px;
+border-radius:10px;
+font-size:30px;
+background-color:rgba(255, 228, 196, 0.500);
+box-shadow: 0 0 20px black;
+}
+form{
+align-content: center;
+justify-content: center;
+margin-top:10px;
+width:800px;
+height:1700px;
+}
+input{
+margin-left:5px;
+height:35px;
+width:775px;
+font-size:27px;
+BORDER-RADIUS:5PX;
+background-color: white;
+margin-bottom:15px;
+}
+.lbutton:active{
+opacity:0.7;
+}
+p{
+display:inline;
+}
+label{
+font-family:Roboto;
+font-size:35px;
+}
